@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Iosevka, sans-serif;
+    font-size: 25px;
+}
+
+.button_container{
+    font-size: 25px;
+}
+
+#rock_btn, #paper_btn, #scissors_btn{
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.result{
+    font-size: 25px;
+}
+
+h2{
+    font-size: 22px;
+}
