@@ -10,7 +10,7 @@ body{
     font-size: 25px;
 }
 
-#rock_btn, #paper_btn, #scissors_btn{
+#rock_btn, #paper_btn, #scissors_btn, #play_again{
     font-size: 20px;
     border-radius: 5px;
     padding: 5px;
